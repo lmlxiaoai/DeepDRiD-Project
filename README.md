@@ -42,7 +42,5 @@ Use all model  pre-trained on ImageNet
 
 
 
-![image-20220526000559736](D:\jupyter\deepdrid_project\DeepDRiD-Project\README.assets\image-20220526000559736.png)
-
 [^1]: X. Li, X. Hu, L. Yu, L. Zhu, C. -W. Fu and P. -A. Heng, "CANet: Cross-Disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading," in IEEE Transactions on Medical Imaging, vol. 39, no. 5, pp. 1483-1493, May 2020, doi: 10.1109/TMI.2019.2951844.
 

@@ -20,9 +20,9 @@
 
 ### prerequisites
 
-- Python 3.6
-- Pytorch
-- CUDA 
+- Python 3.9.12
+- Pytorch 1.8.1
+- CUDA 10.1
 
 ### Data Preparation
 
